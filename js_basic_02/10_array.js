@@ -24,7 +24,7 @@ console.log(Array.from({name: "dhiraj"})); //intersting as it will return a empt
 
 
 
-const score1=22
+const score1=22;
 const score2=322
 const score3=2232
 
