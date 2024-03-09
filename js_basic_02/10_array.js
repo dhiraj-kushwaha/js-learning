@@ -4,7 +4,7 @@ const dc_heros= ["supermen","flash","batman"]
 // marvel_heros.push(dc_heros)
 // console.log(marvel_heros); //[ 'thor', 'Iron', 'Spidermen', [ 'supermen', 'flash', 'batman' ] ] it has taken the dc_heros as single element
 
-// console.log(marvel_heros[3])k
+// console.log(marvel_heros[3])k5
 
 // const allHeros = marvel_heros.concat(dc_heros) // concat return new array 
 // console.log(allHeros)
