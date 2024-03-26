@@ -5,6 +5,17 @@ const course ={
 }
 // course.courseInstructor
 
-const {courseInstructor}= course
+const {courseInstructor : instructor}= course /// objct destructure
 
-console.log(courseInstructor);
+
+console.log(instructor);
+
+//API's in short
+//json
+
+{
+    name: "dhiraj",
+    coursename: "jjs",
+    price: "free"
+}
+
