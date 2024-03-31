@@ -34,7 +34,7 @@ const result = addTwoNumbers(2,5) // argument
 
 // console.log(result);
 
-function loginUserMessage(username){
+function loginUserMessage(username){ // if username= dhi {that means the mininum value of username willbe dhi but when you pass anything so it will be changed with the passed value }
     // if(username === undefined){
     //     console.log("please enter a username")
     //     return
