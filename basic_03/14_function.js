@@ -32,5 +32,18 @@ function addTwoNumbers(num1, num2){ // parameters
 
 const result = addTwoNumbers(2,5) // argument
 
-console.log(result);
+// console.log(result);
+
+function loginUserMessage(username){
+    // if(username === undefined){
+    //     console.log("please enter a username")
+    //     return
+    // }
+    if(!username){
+        console.log("please enter a username")
+        return
+    }
+    return `${username} just logged in `
+}
+console.log(loginUserMessage())
 
